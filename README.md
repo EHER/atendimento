@@ -8,5 +8,6 @@ atendimento. Vamos ver se é impressão minha ou é um papo de louco que venho
 tendo com essas empresas.
 
 #Empresas
-- Net
-- Netflix
+- [Globo](http://globo.com/)
+- [Net](http://www.netcombo.com.br/)
+- [Netflix](https://www.netflix.com/)
